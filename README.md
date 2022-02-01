@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @suprdavit
+- 👀 I’m interested in crypto 
+- 🌱 I’m currently learning smart contract basics, gitbook, github
+- 💞️ I’m looking to collaborate on Crypto projects
+- 📫 How to reach me on Discord suprdavit#7352 or twitter @xbtdavit
